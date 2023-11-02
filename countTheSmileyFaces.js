@@ -1,4 +1,4 @@
-leys = (arrFace) => {
+let countSmileys = (arrFace) => {
     let count = 0
     // loop thru all faces
     for(face of arrFace) {
