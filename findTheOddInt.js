@@ -11,7 +11,7 @@ let findTheOddInt = (arrInt) => {
       }
   }
 
-    // loop thru objInt to find odd Int
+  // loop thru objInt to find odd Int
   for (key in objInt) {
     // return odd int
     if (objInt[key] % 2 === 1) {
